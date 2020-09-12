@@ -54,13 +54,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g18">
-    <rect
-       y="0.56693"
-       x="0.56693"
-       height="484.0336"
-       width="484.0336"
-       id="rect862"
-       style="opacity:0.5;fill:#000000;stroke:none;stroke-width:1.13386;stroke-opacity:0.51004;paint-order:stroke fill markers" />
+    <path
+       d="m 0.56693,0.56693 h 484.0336 v 484.0336 H 0.56693 Z"
+       style="opacity:0.01;fill:#000000;stroke:none;stroke-width:1.13386;stroke-opacity:0.51004;paint-order:stroke fill markers"
+       id="rect862" />
     <g
        style="fill:#ffffff;stroke:#ffffff"
        id="g856"
