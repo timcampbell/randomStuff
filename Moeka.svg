@@ -11,9 +11,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 101.76085 106.14702"
+   height="106.14702mm"
+   width="101.76085mm">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="560"
-     inkscape:cx="400"
+     inkscape:cy="232.02136"
+     inkscape:cx="195.16111"
      inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -48,6 +48,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(-54.196955,-86.777682)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
